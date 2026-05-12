@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - QQ
+  - BirdStop
+  - QQarea
+  - Platform
+  - Ground
+  - QQTongue
+  - Egg
+  - QQcheck
+  - Second
+  - Half
+  - SecondX
+  - Third
+  - follow
+  - Box
+  - BoxStop
+  - Forth
+  - Fifth
+  - PlayerGrab
+  - Desert
+  - BackGround
+  - debug
+  - over
+  - WallLight
+  - lastUI
+  - music
+  - Button
+  - MButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - QQ
+  - QQGround
+  - BirdStop
+  - Platform
+  - Desert
+  - Trap
+  - QQArea
+  - Post Processing
+  - cloak
+  - cloak(back)
+  - Box
+  - NPC
+  - last
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cloak
+    uniqueID: 2392754961
+    locked: 0
+  - name: cloak(back)
+    uniqueID: 1412447173
+    locked: 0
+  - name: particle system
+    uniqueID: 3930571741
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 1778324795
+    locked: 0
